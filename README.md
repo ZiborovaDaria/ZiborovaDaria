@@ -24,3 +24,4 @@
 
 ### 🛠️ Языки и инструменты :
 
+<img scr="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
