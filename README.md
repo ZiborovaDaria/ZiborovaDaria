@@ -40,7 +40,7 @@
 ### ⌨️ Наиболее используемые языки:
 
 <div>
-  <img src = "https://github-readme-status.vercel.app/api/top-langs/?username=ZiborovaDaria" alt=""/>
+  <img src = "https://github-readme-status.vercel.app/api/top-langs/?username=ZiborovaDaria"alt=""/>
 </div>
 
 ### 📊 Статистика активности:
