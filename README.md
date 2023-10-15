@@ -34,6 +34,6 @@
 ### 🏆 Достижения:
 
 <div>
-  <img scr="https://github.com/github-profile-trophy.vercel.app/?username=ZiborovaDaria" alt="" />
+  <img scr="https://github-profile-trophy.vercel.app/?username=ZiborovaDaria" alt="" />
 </div>
 
