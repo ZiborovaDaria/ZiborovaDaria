@@ -34,6 +34,11 @@
 ### 🏆 Достижения:
 
 <div>
-  <img scr="https://github-profile-trophy.vercel.app/?username=ZiborovaDaria" alt="" />
+  <img scr="https://github-profile-trophy.vercel.app/?username=ZiborovaDaria" alt=""/>
 </div>
 
+### ⌨️ Наиболее используемые языки:
+
+<div>
+  <img scr="https://github-readme-status.vercel.app/api/top-langs/?username=ZiborovaDaria" alt=""/>
+</div>
